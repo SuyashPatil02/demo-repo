@@ -1,2 +1,2 @@
 # demo-repo!
-for github batches
+for github badges.!
